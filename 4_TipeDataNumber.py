@@ -3,5 +3,5 @@
 
 int_num = 10  # nilai int = bilangan bulat
 float_num = 10.2  # nilai float = bilangan desimal
-complex_num = 3.14j  # nilai complex
+complex_num = 3.14j  # nilai complex = bilangan real
 long_num = 1234567L  # nilai Long
